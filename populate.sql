@@ -25,15 +25,15 @@ INSERT INTO manufacturer (mnf_name)
   	VALUES ('Фармстандарт');
 
 -- country
-INSERT INTO country (country_name)
+INSERT INTO origin_country (country_name)
   	VALUES ('China');
-INSERT INTO country (country_name)
+INSERT INTO origin_country (country_name)
   	VALUES ('Europe');
-INSERT INTO country (country_name)
+INSERT INTO origin_country (country_name)
   	VALUES ('Korea');
-INSERT INTO country (country_name)
+INSERT INTO origin_country (country_name)
   	VALUES ('USA');
-INSERT INTO country (country_name)
+INSERT INTO origin_country (country_name)
   	VALUES ('Russia');
 
 
